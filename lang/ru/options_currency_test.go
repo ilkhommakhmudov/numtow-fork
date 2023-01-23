@@ -3,7 +3,7 @@ package ru
 import (
 	"testing"
 
-	"github.com/gammban/numtow/curtow/cur"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow/cur"
 )
 
 func TestParseCurrencyOpts_Variadic(t *testing.T) {

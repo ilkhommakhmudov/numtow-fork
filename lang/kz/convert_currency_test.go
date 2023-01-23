@@ -4,11 +4,11 @@ import (
 	"math"
 	"testing"
 
-	"github.com/gammban/numtow/internal/digit"
-	"github.com/gammban/numtow/internal/ds"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/digit"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/ds"
 
-	"github.com/gammban/numtow/curtow/cur"
-	"github.com/gammban/numtow/internal/testdata"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow/cur"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/testdata"
 )
 
 func TestCurrencyInt64_KZT(t *testing.T) {

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gammban/numtow/internal/digit"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/digit"
 )
 
 var (

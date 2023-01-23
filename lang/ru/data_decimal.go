@@ -1,6 +1,6 @@
 package ru
 
-import "github.com/gammban/numtow/lang/ru/gender"
+import "github.com/ilkhommakhmudov/numtow-fork/lang/ru/gender"
 
 const (
 	intPartMale   = "целых"

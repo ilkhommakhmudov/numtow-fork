@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gammban/numtow/internal/ds"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/ds"
 )
 
 //nolint:gochecknoglobals

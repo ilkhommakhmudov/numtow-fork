@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/gammban/numtow/internal/digit"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/digit"
 )
 
 //nolint:gochecknoglobals

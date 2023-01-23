@@ -1,21 +1,21 @@
 # numtow
 
-[![GoDoc](https://godoc.org/github.com/gammban/numtow?status.svg)](https://godoc.org/github.com/gammban/numtow)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gammban/numtow)](https://goreportcard.com/report/github.com/gammban/numtow)
-[![codecov](https://codecov.io/gh/gammban/numtow/branch/main/graph/badge.svg)](https://codecov.io/gh/gammban/numtow)
+[![GoDoc](https://godoc.org/github.com/ilkhommakhmudov/numtow?status.svg)](https://godoc.org/github.com/ilkhommakhmudov/numtow)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ilkhommakhmudov/numtow)](https://goreportcard.com/report/github.com/ilkhommakhmudov/numtow)
+[![codecov](https://codecov.io/gh/ilkhommakhmudov/numtow-fork/branch/main/graph/badge.svg)](https://codecov.io/gh/ilkhommakhmudov/numtow)
 
 golang library to convert number to words, currencies to words. 
 
 ## Import
 
 ```shell
-go get github.com/gammban/numtow
+go get github.com/ilkhommakhmudov/numtow
 ```
 
 ## Usage
 
 ```go
-import "github.com/gammban/numtow" 
+import "github.com/ilkhommakhmudov/numtow" 
 
 ...
 
@@ -94,7 +94,7 @@ fmt.Println(en.MustString("12,54", MyFormat...)) // twelve point 54
 ## Convert currencies
 
 ```go
-import "github.com/gammban/numtow/curtow"
+import "github.com/ilkhommakhmudov/numtow-fork/curtow"
 ...
 // convert currency to english words using curtow package
 fmt.Println(curtow.MustString("12", lang.EN, en.WithCur(cur.USD)))                           // twelve dollars and 00 cents

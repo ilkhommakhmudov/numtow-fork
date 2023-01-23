@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gammban/numtow"
-	"github.com/gammban/numtow/lang"
-	"github.com/gammban/numtow/lang/en"
+	"github.com/ilkhommakhmudov/numtow"
+	"github.com/ilkhommakhmudov/numtow-fork/lang"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/en"
 )
 
 func TestEn(t *testing.T) {

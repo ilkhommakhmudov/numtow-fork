@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/gammban/numtow/curtow/cur"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow/cur"
 )
 
 //nolint:gochecknoglobals

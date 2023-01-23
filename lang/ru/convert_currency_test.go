@@ -5,10 +5,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gammban/numtow/internal/ds"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/ds"
 
-	"github.com/gammban/numtow/curtow/cur"
-	"github.com/gammban/numtow/internal/testdata"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow/cur"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/testdata"
 )
 
 func TestConvCurrencyInt64_CurrencyKZT(t *testing.T) {

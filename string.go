@@ -1,14 +1,15 @@
 package numtow
 
 import (
-	"github.com/gammban/numtow/lang"
-	"github.com/gammban/numtow/lang/en"
-	"github.com/gammban/numtow/lang/kz"
-	"github.com/gammban/numtow/lang/ru"
+	"github.com/ilkhommakhmudov/numtow-fork/lang"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/en"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/kz"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/ru"
 )
 
 // String converts decimal number to words.
-//  String("1", lang.EN)
+//
+//	String("1", lang.EN)
 func String(decimal string, language lang.Lang, options ...interface{}) (words string, err error) {
 	switch language {
 	case lang.KZ:

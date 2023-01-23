@@ -3,7 +3,7 @@ package ru
 import (
 	"testing"
 
-	"github.com/gammban/numtow/lang/ru/gender"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/ru/gender"
 )
 
 func TestParseOpts(t *testing.T) {

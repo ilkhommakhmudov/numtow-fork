@@ -1,7 +1,7 @@
 package ru
 
 import (
-	"github.com/gammban/numtow/lang/ru/gender"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/ru/gender"
 )
 
 // Options for russian language.

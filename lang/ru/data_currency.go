@@ -3,8 +3,8 @@ package ru
 import (
 	"fmt"
 
-	"github.com/gammban/numtow/curtow/cur"
-	"github.com/gammban/numtow/lang/ru/gender"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow/cur"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/ru/gender"
 )
 
 var (

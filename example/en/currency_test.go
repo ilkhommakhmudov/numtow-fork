@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gammban/numtow/curtow"
-	"github.com/gammban/numtow/curtow/cur"
-	"github.com/gammban/numtow/lang"
-	"github.com/gammban/numtow/lang/en"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow/cur"
+	"github.com/ilkhommakhmudov/numtow-fork/lang"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/en"
 )
 
 func TestCurrencyEN(t *testing.T) {

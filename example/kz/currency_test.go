@@ -2,10 +2,10 @@ package kz
 
 import (
 	"fmt"
-	"github.com/gammban/numtow/curtow"
-	"github.com/gammban/numtow/curtow/cur"
-	"github.com/gammban/numtow/lang"
-	"github.com/gammban/numtow/lang/kz"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow"
+	"github.com/ilkhommakhmudov/numtow-fork/curtow/cur"
+	"github.com/ilkhommakhmudov/numtow-fork/lang"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/kz"
 	"testing"
 )
 

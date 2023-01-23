@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gammban/numtow/internal/digit"
-	"github.com/gammban/numtow/internal/ds"
-	"github.com/gammban/numtow/lang/ru/gender"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/digit"
+	"github.com/ilkhommakhmudov/numtow-fork/internal/ds"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/ru/gender"
 )
 
 const (

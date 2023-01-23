@@ -1,10 +1,10 @@
 package numtow
 
 import (
-	"github.com/gammban/numtow/lang"
-	"github.com/gammban/numtow/lang/en"
-	"github.com/gammban/numtow/lang/kz"
-	"github.com/gammban/numtow/lang/ru"
+	"github.com/ilkhommakhmudov/numtow-fork/lang"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/en"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/kz"
+	"github.com/ilkhommakhmudov/numtow-fork/lang/ru"
 )
 
 // Float64 converts float64 number to words.
