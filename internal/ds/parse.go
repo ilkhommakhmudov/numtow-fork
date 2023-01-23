@@ -20,8 +20,8 @@ const (
 	defaultExp              = 0
 	defaultDecimalSeparator = '.'
 	minusSign               = "-"
-	float64ParseLimitMax    = 9000000000000
-	float64ParseLimitMin    = -9000000000000
+	float64ParseLimitMax    = 9999999999999999
+	float64ParseLimitMin    = -9999999999999999
 )
 
 type ParseOpt struct {
